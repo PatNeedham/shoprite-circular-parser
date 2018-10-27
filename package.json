@@ -1,0 +1,25 @@
+{
+  "name": "shoprite-circular-parser",
+  "version": "1.0.0",
+  "description": "Make the Weekly Circulars Readable, Filterable, and More Easily Searchable",
+  "main": "index.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "espree": "^4.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PatNeedham/shoprite-circular-parser.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PatNeedham/shoprite-circular-parser/issues"
+  },
+  "homepage": "https://github.com/PatNeedham/shoprite-circular-parser#readme"
+}
