@@ -5,7 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "cheerio": "^1.0.0-rc.2",
-    "espree": "^4.0.0"
+    "espree": "^5.0.0"
   },
   "devDependencies": {},
   "scripts": {
